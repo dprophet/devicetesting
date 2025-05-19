@@ -1,0 +1,9 @@
+requests
+requests-oauthlib
+pyjwt
+pandas
+trino
+fastparquet
+sqlalchemy
+jupyter
+pycryptodome
